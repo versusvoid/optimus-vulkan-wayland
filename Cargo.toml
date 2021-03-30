@@ -1,0 +1,9 @@
+[package]
+name = "optimus-vulkan-wayland"
+version = "1.0.0"
+edition = "2018"
+
+[dependencies]
+winit = "0.24"
+ash = "0.32"
+cgmath = "0.18"
